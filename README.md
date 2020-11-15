@@ -10,5 +10,5 @@ If it doesn't work and an error occurs, it is probably due to Gmail's strict val
 
 in order to resolve the problem, just turn on 'Allow less secure apps' in your account settings and everything will be ok
 
-you can use this link to get o the 'Allow less secure apps' switch faster: 
+you can use this link to get to the 'Allow less secure apps' switch faster: 
 https://tinyurl.com/y6btfou5
